@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "453446920673",
+    "firebase_url": "https://talkmore-78771.firebaseio.com",
+    "project_id": "talkmore-78771",
+    "storage_bucket": "talkmore-78771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453446920673:android:b4044a4baad36aa4",
+        "android_client_info": {
+          "package_name": "com.example.vikasratre.talkMore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453446920673-ebdho4cks92cgiurgsbc01intqo3sq2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vikasratre.talkMore",
+            "certificate_hash": "0df2920946fedc096faa76f5d8f515eac54717bb"
+          }
+        },
+        {
+          "client_id": "453446920673-k5jv7gb08993hse4f3ojls2nhbm7unnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08VH73EY1ZgOFK6DvL93YDSB4c6JkXmU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453446920673-k5jv7gb08993hse4f3ojls2nhbm7unnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
